@@ -3,10 +3,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Teofilo-Dev&style=for-the-badge&color=6C63FF" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
+---
+
+## 🧠 Developer Mindset
+
+<p align="center">
+  <i>"Great software is built with patience, precision, and passion."</i>
+</p>
 
 ---
 
@@ -22,16 +34,41 @@
 ## 👨‍💻 About Me
 
 - 🔭 Full-Stack Web Developer  
-- ⚡ Specializing in **Vue, Django & Tailwind CSS**  
-- 🧠 Passionate about clean UI & scalable backend systems  
-- 🚀 Continuously learning modern web technologies  
+- ⚡ Specialized in **Vue, Django & Tailwind CSS**  
+- 🧠 Clean UI enthusiast & backend problem solver  
+- 🚀 Building scalable & maintainable systems  
+- 🎯 Focused on performance and user experience  
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django,git,github,linux&theme=dark" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚙️ Django REST Framework (Advanced)  
+- ⚡ Vue 3 Performance Optimization  
+- ☁️ Docker & CI/CD Pipelines  
+- 🧪 Testing & Clean Architecture  
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🚧 Project | 📄 Description | 🛠 Tech Stack |
+|-----------|---------------|--------------|
+| 🌐 Portfolio Website | Personal branding & showcase | Vue, Tailwind |
+| 🛒 E-Commerce App | Full-stack online store | Django, Vue |
+| 📊 Admin Dashboard | Analytics & management system | Vue, Chart.js |
+| 🔐 Auth System | Secure authentication flow | Django REST |
+
 </div>
 
 ---
@@ -44,7 +81,7 @@
 
 ---
 
-## 📈 Contribution Activity (Live)
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true"/>
 
@@ -75,4 +112,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
