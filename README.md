@@ -2,10 +2,13 @@
   Christian John G. Teofilo 👋
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🧠 Developer Mindset
 
@@ -13,14 +16,14 @@
   <i>"Great software is built with patience, precision, and passion."</i>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Teofilo-Dev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teofilo-Dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 <img align="right" height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kcXIwa2JraHQ0cXltc292dnlmb3pxanlhbWt3aHRyaGV1N2RqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif"/>
 
@@ -32,7 +35,7 @@
 - 🚀 Building scalable & maintainable systems  
 - 🎯 Focused on performance and user experience  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🛠 Tech Stack
 
@@ -40,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django,git,github,linux&theme=dark" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🌱 Currently Learning
 
@@ -49,7 +52,7 @@
 - ☁️ Docker & CI/CD Pipelines  
 - 🧪 Testing & Clean Architecture  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🚀 Featured Projects
 
@@ -64,7 +67,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🏆 GitHub Achievements
 
@@ -72,19 +75,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Teofilo-Dev&theme=dracula&no-frame=true&row=1&column=6"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🐍 Contribution Snake Animation
 
 <img src="https://raw.githubusercontent.com/Teofilo-Dev/Teofilo-Dev/output/snake.svg" alt="Snake animation"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=6&section=header" />
 
 ## 🌐 Connect With Me
 
@@ -103,6 +106,4 @@
   </a>
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
