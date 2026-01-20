@@ -6,7 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" />
+<!-- Animated Wave Separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" alt="wave" />
+</p>
 
 ---
 
@@ -16,7 +19,10 @@
   <strong>"Great software is built with patience, precision, and passion."</strong>
 </p>
 
----
+<!-- Animated Gradient Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=10&section=header" alt="gradient line" />
+</p>
 
 <div align="center" style="margin: 2rem 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Teofilo-Dev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" height="180" />
@@ -25,138 +31,82 @@
 
 ---
 
-<img align="right" height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kcXIwa2JraHQ0cXltc292dnlmb3pxanlhbWt3aHRyaGV1N2RqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" style="border-radius: 16px; margin-left: 1.5rem;" />
+<img align="right" height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kcXIwa2JraHQ0cXltc292dnlmb3pxanlhbWt3aHRyaGV1N2RqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" style="border-radius: 16px; margin-left: 1.5rem;" alt="coding animation" />
 
 ## 👨‍💻 About Me
 
 <ul style="max-width: 720px; line-height: 1.6; font-size: 1.05rem;">
-  <li>🔭 Web Developer passionate about building modern, scalable web applications.</li>
-  <li>⚡ Specialized in <strong>Vue, Django & Tailwind CSS</strong>, focusing on clean, user-friendly UI and robust backend architecture.</li>
-  <li>🎯 Goal-oriented and detail-focused; writing maintainable and performant code is a priority.</li>
-  <li>🌱 Continuously exploring new tools and frameworks to stay at the forefront of web technology.</li>
-  <li>🤝 Enjoy collaborating and learning from other developers.</li>
-  <li>🌍 Aiming to contribute to open source projects and community-driven software.</li>
+  <li>🔭 Passionate web developer building modern, scalable web applications with clean and intuitive UI.</li>
+  <li>⚡ Specialized in <strong>Vue.js, Django & Tailwind CSS</strong> focusing on robustness and user experience.</li>
+  <li>🎯 Detail-oriented with a focus on writing maintainable and performant code.</li>
+  <li>🌱 Lifelong learner, continuously exploring modern frameworks, testing methodologies, and cloud tech.</li>
+  <li>🤝 Advocate for open source collaboration and knowledge sharing.</li>
+  <li>🌍 Dedicated to building impactful software that improves user lives.</li>
 </ul>
 
----
+<!-- Animated Gradient Line -->
+<p align="center" style="margin: 3rem 0 1rem;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=10&section=header" alt="gradient line" />
+</p>
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <div align="center" style="margin: 1.2rem 0;">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django,git,github,linux,docker,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django,git,github,linux,docker,postgres,mysql,kubernetes&theme=dark" alt="tech stack icons" />
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Improving
 
 <table align="center" style="max-width: 720px; margin:auto; text-align:left; font-size: 1rem; border-collapse: collapse;">
   <tbody>
     <tr>
-      <td style="padding: 6px 10px;">⚙️ Django REST Framework (API development & security)</td>
-      <td style="padding: 6px 10px;">☁️ Docker & Kubernetes basics</td>
+      <td style="padding: 8px 10px;">⚙️ Django REST Framework (API development & security)</td>
+      <td style="padding: 8px 10px;">☁️ Docker & Kubernetes fundamentals</td>
     </tr>
     <tr>
-      <td style="padding: 6px 10px;">⚡ Vue 3 Composition API and Performance Optimizations</td>
-      <td style="padding: 6px 10px;">🧪 Testing & Clean Architecture principles</td>
+      <td style="padding: 8px 10px;">⚡ Vue 3 Composition API & Performance</td>
+      <td style="padding: 8px 10px;">🧪 Automated testing & Clean Architecture</td>
     </tr>
     <tr>
-      <td style="padding: 6px 10px;">🔧 CI/CD pipelines with GitHub Actions & GitLab</td>
-      <td style="padding: 6px 10px;"></td>
+      <td style="padding: 8px 10px;">🔧 CI/CD pipelines with GitHub Actions & GitLab</td>
+      <td style="padding: 8px 10px;"></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center" style="max-width: 720px; margin:auto;">
-
-<table style="width: 100%; border-collapse: collapse; font-size: 1rem;">
-<thead>
-  <tr style="background: #6C63FF; color: white;">
-    <th style="padding: 10px;">🚧 Project</th>
-    <th style="padding: 10px;">📄 Description</th>
-    <th style="padding: 10px;">🛠 Tech Stack</th>
-    <th style="padding: 10px;">🔗 Link</th>
-  </tr>
-</thead>
-<tbody>
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px;">🌐 Portfolio Website</td>
-    <td style="padding: 10px;">Personal branding & showcase</td>
-    <td style="padding: 10px;">Vue, Tailwind</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="Visit Portfolio Website" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-  <tr style="background:#f8f8f8; border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px;">🛒 E-Commerce App</td>
-    <td style="padding: 10px;">Full-stack online store</td>
-    <td style="padding: 10px;">Django, Vue</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="View E-Commerce App" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px;">📊 Admin Dashboard</td>
-    <td style="padding: 10px;">Analytics & management system</td>
-    <td style="padding: 10px;">Vue, Chart.js</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="View Admin Dashboard" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-  <tr style="background:#f8f8f8; border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px;">🔐 Auth System</td>
-    <td style="padding: 10px;">Secure authentication flow</td>
-    <td style="padding: 10px;">Django REST</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="View Auth System" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px;">📚 Blog Platform</td>
-    <td style="padding: 10px;">Headless CMS with markdown support</td>
-    <td style="padding: 10px;">Django, Tailwind</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="View Blog Platform" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-  <tr style="background:#f8f8f8;">
-    <td style="padding: 10px;">🧩 Puzzle Game</td>
-    <td style="padding: 10px;">Interactive web puzzle game</td>
-    <td style="padding: 10px;">Vue, TypeScript</td>
-    <td style="padding: 10px;"><a href="#" style="color:#6C63FF; font-weight:600;" title="View Puzzle Game" target="_blank" rel="noopener noreferrer">View</a></td>
-  </tr>
-</tbody>
-</table>
-
-</div>
-
----
-
-## ⚙️ Skills & Tools
+## ⚙️ Skills & Proficiency
 
 <div align="center" style="max-width: 720px; margin: auto; font-size: 1rem;">
-
-| Skill                 | Proficiency |
-|-----------------------|-------------|
-| Python                | ![90%](https://img.shields.io/badge/-90%25-3776AB?style=flat&logo=python&logoColor=white) |
-| Vue.js                | ![85%](https://img.shields.io/badge/-85%25-42b883?style=flat&logo=vue.js&logoColor=white) |
-| Django                | ![80%](https://img.shields.io/badge/-80%25-092E20?style=flat&logo=django&logoColor=white) |
-| Tailwind CSS          | ![85%](https://img.shields.io/badge/-85%25-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| Git & GitHub          | ![95%](https://img.shields.io/badge/-95%25-F05032?style=flat&logo=git&logoColor=white) |
-
+  | Skill                 | Proficiency |
+  |-----------------------|-------------|
+  | Python                | ![90%](https://img.shields.io/badge/-90%25-3776AB?style=flat&logo=python&logoColor=white) |
+  | Vue.js                | ![85%](https://img.shields.io/badge/-85%25-42b883?style=flat&logo=vue.js&logoColor=white) |
+  | Django                | ![80%](https://img.shields.io/badge/-80%25-092E20?style=flat&logo=django&logoColor=white) |
+  | Tailwind CSS          | ![85%](https://img.shields.io/badge/-85%25-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+  | Git & GitHub          | ![95%](https://img.shields.io/badge/-95%25-F05032?style=flat&logo=git&logoColor=white) |
 </div>
 
 ---
 
-## 🎉 Fun Facts
+## 🎉 Fun Facts About Me
 
 <ul style="max-width: 720px; margin:auto; font-size: 1.1rem; line-height: 1.6;">
-  <li>🧩 I can solve a Rubik's cube in under 2 minutes!</li>
-  <li>☕ Coffee is my fuel — more than 3 cups a day!</li>
-  <li>🎨 Enjoy creating digital art & animations in my spare time.</li>
-  <li>🚀 Always experimenting with new tech stacks and challenges.</li>
+  <li>🧩 Can solve a Rubik's cube in under 2 minutes.</li>
+  <li>☕ Coffee enthusiast—more than 3 cups a day.</li>
+  <li>🎨 Love creating digital art and animations.</li>
+  <li>🚀 Always challenging myself with new tech stacks.</li>
 </ul>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Teofilo-Dev&theme=dracula&no-frame=true&row=1&column=6" />
+<div align="center" style="margin: 2rem 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Teofilo-Dev&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 ---
@@ -164,7 +114,7 @@
 ## 📈 Contribution Activity
 
 <div align="center" style="max-width: 720px; margin:auto;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
@@ -196,19 +146,35 @@
 <div align="center" style="margin-top: 1.5rem;">
 
   <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" title="YouTube">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" title="Instagram" style="margin-left: 8px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer" title="Email" style="margin-left: 8px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin-left: 8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
+<p align="center" style="margin: 3rem 0;">
+  <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer" style="
+    background: linear-gradient(90deg, #6C63FF, #8F7AFE);
+    color: white;
+    padding: 14px 36px;
+    font-weight: 700;
+    font-size: 1.1rem;
+    border-radius: 35px;
+    text-decoration: none;
+    box-shadow: 0 8px 15px rgba(108, 99, 255, 0.3);
+    transition: all 0.3s ease-in-out;
+  " onmouseover="this.style.background='linear-gradient(90deg, #8F7AFE, #6C63FF)'" onmouseout="this.style.background='linear-gradient(90deg, #6C63FF, #8F7AFE)'">
+    Let's Talk! 🚀
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="footer wave" />
