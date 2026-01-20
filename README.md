@@ -1,9 +1,5 @@
 <h1 align="center">Christian John G. Teofilo 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" alt="Typing animation" />
-</p>
-
 ## 🧠 Developer Mindset
 
 <p align="center" style="font-style: italic; font-size: 1.1rem; max-width: 600px; margin: auto;">
