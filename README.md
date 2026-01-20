@@ -1,4 +1,4 @@
-<h1 align="center">Christian John G. Teofilo 👋</h1>
+<h1 align="left">Christian John G. Teofilo 👋</h1>
 
 ## 🧠 Developer Mindset
 
