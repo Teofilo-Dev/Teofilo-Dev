@@ -3,165 +3,141 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Python+%7C+PHP+%7C+Flask+%7C+Vue+%7C+Vite+%7C+Django+%7C+Java;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
 </p>
 
-<!-- Animated Wave Separator -->
+<!-- Animated Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" alt="wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" />
 </p>
-
----
-
-## 🧠 Developer Mindset
-
-<p align="center" style="font-style: italic; font-size: 1.3rem; color:#6C63FF; max-width: 720px; margin:auto; line-height: 1.5;">
-  <strong>"Great software is built with patience, precision, and passion."</strong>
-</p>
-
-<!-- Animated Gradient Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=10&section=header" alt="gradient line" />
-</p>
-
-<div align="center" style="margin: 2rem 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teofilo-Dev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teofilo-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
----
-
-<img align="right" height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kcXIwa2JraHQ0cXltc292dnlmb3pxanlhbWt3aHRyaGV1N2RqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" style="border-radius: 16px; margin-left: 1.5rem;" alt="coding animation" />
 
 ## 👨‍💻 About Me
+<p align="center" style="font-size:1.1rem; max-width: 720px; line-height:1.6;">
+I am a passionate Full-Stack Web Developer who loves turning ideas into functional and beautiful web applications. I specialize in Python, PHP, Flask, Vue, Vite, Django, Java, Tailwind CSS, CSS, PostgreSQL, Git, and C++. I strive for <strong>clean, maintainable, and performant code</strong>, and enjoy learning new technologies and improving my skills continuously.
+</p>
 
-<ul style="max-width: 720px; line-height: 1.6; font-size: 1.05rem;">
-  <li>🔭 Passionate web developer building modern, scalable web applications with clean and intuitive UI.</li>
-  <li>⚡ Specialized in <strong>Vue.js, Django & Tailwind CSS</strong> focusing on robustness and user experience.</li>
-  <li>🎯 Detail-oriented with a focus on writing maintainable and performant code.</li>
-  <li>🌱 Lifelong learner, continuously exploring modern frameworks, testing methodologies, and cloud tech.</li>
-  <li>🤝 Advocate for open source collaboration and knowledge sharing.</li>
-  <li>🌍 Dedicated to building impactful software that improves user lives.</li>
-</ul>
-
-<!-- Animated Gradient Line -->
-<p align="center" style="margin: 3rem 0 1rem;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=10&section=header" alt="gradient line" />
+<!-- Gradient separator -->
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
 </p>
 
 ## 🛠 Tech Stack & Tools
-
-<div align="center" style="margin: 1.2rem 0;">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,vue,vuetify,tailwind,django,git,github,linux,docker,postgres,mysql,kubernetes&theme=dark" alt="tech stack icons" />
+<div align="center" style="margin: 1.5rem 0;">
+  <img src="https://skillicons.dev/icons?i=python,php,flask,vue,vite,django,java,tailwind,css,postgres,github,cpp&theme=dark" />
 </div>
 
----
+<!-- Another Gradient -->
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
-## 🌱 Currently Learning & Improving
+## 🌱 Currently Learning
+<div align="center" style="max-width:720px; margin:auto; font-size:1rem; line-height:1.6;">
+<ul>
+  <li>⚙️ Django REST Framework & API security</li>
+  <li>⚡ Vue 3 Composition API & Performance Optimizations</li>
+  <li>☁️ Docker & Kubernetes fundamentals</li>
+  <li>🧪 Unit, Integration, and E2E Testing</li>
+  <li>🔧 CI/CD pipelines with GitHub Actions & GitLab</li>
+</ul>
+</div>
 
-<table align="center" style="max-width: 720px; margin:auto; text-align:left; font-size: 1rem; border-collapse: collapse;">
-  <tbody>
-    <tr>
-      <td style="padding: 8px 10px;">⚙️ Django REST Framework (API development & security)</td>
-      <td style="padding: 8px 10px;">☁️ Docker & Kubernetes fundamentals</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 10px;">⚡ Vue 3 Composition API & Performance</td>
-      <td style="padding: 8px 10px;">🧪 Automated testing & Clean Architecture</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 10px;">🔧 CI/CD pipelines with GitHub Actions & GitLab</td>
-      <td style="padding: 8px 10px;"></td>
-    </tr>
-  </tbody>
-</table>
-
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
 ## ⚙️ Skills & Proficiency
-
-<div align="center" style="max-width: 720px; margin: auto; font-size: 1rem;">
-  | Skill                 | Proficiency |
-  |-----------------------|-------------|
-  | Python                | ![90%](https://img.shields.io/badge/-90%25-3776AB?style=flat&logo=python&logoColor=white) |
-  | Vue.js                | ![85%](https://img.shields.io/badge/-85%25-42b883?style=flat&logo=vue.js&logoColor=white) |
-  | Django                | ![80%](https://img.shields.io/badge/-80%25-092E20?style=flat&logo=django&logoColor=white) |
-  | Tailwind CSS          | ![85%](https://img.shields.io/badge/-85%25-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-  | Git & GitHub          | ![95%](https://img.shields.io/badge/-95%25-F05032?style=flat&logo=git&logoColor=white) |
+<div align="center" style="max-width:720px; margin:auto;">
+| Skill      | Proficiency |
+|------------|-------------|
+| Python     | ![90%](https://img.shields.io/badge/-90%25-3776AB?style=flat&logo=python&logoColor=white) |
+| PHP        | ![85%](https://img.shields.io/badge/-85%25-777BB4?style=flat&logo=php&logoColor=white) |
+| Flask      | ![80%](https://img.shields.io/badge/-80%25-000000?style=flat&logo=flask&logoColor=white) |
+| Vue.js     | ![85%](https://img.shields.io/badge/-85%25-42b883?style=flat&logo=vue.js&logoColor=white) |
+| Django     | ![80%](https://img.shields.io/badge/-80%25-092E20?style=flat&logo=django&logoColor=white) |
+| Tailwind   | ![85%](https://img.shields.io/badge/-85%25-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| Java       | ![75%](https://img.shields.io/badge/-75%25-007396?style=flat&logo=java&logoColor=white) |
+| PostgreSQL | ![80%](https://img.shields.io/badge/-80%25-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| Git & GitHub | ![95%](https://img.shields.io/badge/-95%25-F05032?style=flat&logo=git&logoColor=white) |
+| C++        | ![70%](https://img.shields.io/badge/-70%25-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 </div>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
-## 🎉 Fun Facts About Me
-
-<ul style="max-width: 720px; margin:auto; font-size: 1.1rem; line-height: 1.6;">
-  <li>🧩 Can solve a Rubik's cube in under 2 minutes.</li>
-  <li>☕ Coffee enthusiast—more than 3 cups a day.</li>
-  <li>🎨 Love creating digital art and animations.</li>
-  <li>🚀 Always challenging myself with new tech stacks.</li>
+## 🎉 Fun Facts
+<div align="center" style="max-width:720px; margin:auto; font-size:1.1rem; line-height:1.6;">
+<ul>
+  <li>🧩 Can solve a Rubik's cube in under 2 minutes</li>
+  <li>☕ Coffee enthusiast — more than 3 cups a day</li>
+  <li>🎨 Love creating digital art & animations</li>
+  <li>🚀 Experimenting with new tech stacks & challenges</li>
 </ul>
+</div>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
 ## 🏆 GitHub Achievements
-
-<div align="center" style="margin: 2rem 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Teofilo-Dev&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Teofilo-Dev&theme=dracula&no-frame=true&row=1&column=6" />
 </div>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
 ## 📈 Contribution Activity
-
-<div align="center" style="max-width: 720px; margin:auto;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true" alt="Contribution graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teofilo-Dev&theme=dracula&hide_border=true" />
 </div>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
 ## 🐍 Contribution Snake Animation
-
-<div align="center" style="max-width: 720px; margin:auto;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Teofilo-Dev/Teofilo-Dev/output/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=8&section=header" />
+</p>
 
 ## 💬 Quotes to Live By
-
-<div align="center" style="max-width: 720px; margin:auto; font-style: italic; font-weight: 600; font-size: 1.25rem; color:#6C63FF; line-height: 1.6;">
-
+<div align="center" style="max-width:720px; margin:auto; font-style: italic; font-weight: 600; font-size: 1.25rem; color:#6C63FF; line-height:1.6;">
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 >
 > "Simplicity is the soul of efficiency." – Austin Freeman  
 >
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
-
 </div>
 
----
+<p align="center" style="margin:2rem 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=35&section=header" />
+</p>
 
 ## 🌐 Connect With Me
-
-<div align="center" style="margin-top: 1.5rem;">
-
-  <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" title="YouTube">
+<div align="center">
+  <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" title="Instagram" style="margin-left: 8px;">
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer" title="Email" style="margin-left: 8px;">
+  <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin-left: 8px;">
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
----
-
-<p align="center" style="margin: 3rem 0;">
+<!-- Call to Action -->
+<p align="center" style="margin:3rem 0;">
   <a href="mailto:your@email.com" target="_blank" rel="noopener noreferrer" style="
     background: linear-gradient(90deg, #6C63FF, #8F7AFE);
     color: white;
@@ -171,10 +147,11 @@
     border-radius: 35px;
     text-decoration: none;
     box-shadow: 0 8px 15px rgba(108, 99, 255, 0.3);
-    transition: all 0.3s ease-in-out;
-  " onmouseover="this.style.background='linear-gradient(90deg, #8F7AFE, #6C63FF)'" onmouseout="this.style.background='linear-gradient(90deg, #6C63FF, #8F7AFE)'">
+  ">
     Let's Talk! 🚀
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="footer wave" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
+</p>
