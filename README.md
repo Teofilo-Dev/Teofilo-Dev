@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Vue+%7C+Django+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Turning+Ideas+Into+Code+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Teofilo-Dev&style=for-the-badge&color=6C63FF" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
 ---
