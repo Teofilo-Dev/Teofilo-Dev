@@ -35,14 +35,15 @@ I am a dedicated Full Stack Developer with a passion for creating modern, scalab
 
 | Skill       | Level       | Progress                   |
 |-------------|-------------|----------------------------|
-| Python      | Advanced    | ![90%](https://progress-bar.dev/90/?color=3776AB&width=150)  |
-| Vue.js      | Advanced    | ![85%](https://progress-bar.dev/85/?color=42b883&width=150)  |
-| Django      | Intermediate| ![80%](https://progress-bar.dev/80/?color=092E20&width=150)  |
-| Tailwind CSS| Advanced    | ![85%](https://progress-bar.dev/85/?color=38B2AC&width=150)  |
-| PHP         | Intermediate| ![75%](https://progress-bar.dev/75/?color=777BB4&width=150)  |
-| PostgreSQL  | Intermediate| ![80%](https://progress-bar.dev/80/?color=4169E1&width=150)  |
-| Java        | Intermediate| ![70%](https://progress-bar.dev/70/?color=007396&width=150)  |
-| C++         | Intermediate| ![70%](https://progress-bar.dev/70/?color=00599C&width=150)  |
+| Python      | Advanced    | ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat&logo=python&logoColor=white)  |
+| Vue.js      | Advanced    | ![Vue.js](https://img.shields.io/badge/Vue.js-85%25-42b883?style=flat&logo=vue.js&logoColor=white)  |
+| Django      | Intermediate| ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=flat&logo=django&logoColor=white)  |
+| Tailwind CSS| Advanced    | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-85%25-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  |
+| PHP         | Intermediate| ![PHP](https://img.shields.io/badge/PHP-75%25-777BB4?style=flat&logo=php&logoColor=white)  |
+| PostgreSQL  | Intermediate| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-4169E1?style=flat&logo=postgresql&logoColor=white)  |
+| Java        | Intermediate| ![Java](https://img.shields.io/badge/Java-70%25-007396?style=flat&logo=java&logoColor=white)  |
+| C++         | Intermediate| ![C++](https://img.shields.io/badge/C++-70%25-00599C?style=flat&logo=c%2B%2B&logoColor=white)  |
+
 
 ## 📚 Experience & Projects
 
