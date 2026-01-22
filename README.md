@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="280" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="280" height="300px" />
 </p>
 
 ## 👨‍💻 About Me
